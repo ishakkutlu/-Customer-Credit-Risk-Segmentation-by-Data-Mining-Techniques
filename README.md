@@ -1,2 +1,2 @@
-# -Customer-Credit-Risk-Segmentation-by-Data-Mining-Techniques
- Customer Credit Risk Segmentation by Data Mining Techniques 
+# Customer-Credit-Risk-Segmentation-by-Data-Mining-Techniques
+Implemented various machine learning algorithms including XGBoost, decision tree, random forest, extra tree, naive Bayes, KNN and logistic regression to determine in the customer credit risk segmentation, and increasing by 8% accuracy through data mining techniques such as exploratory data analysis, data preprocessing, data cleaning, feature selection, feature extraction, dimension reduction, noise removal and data balancing.
