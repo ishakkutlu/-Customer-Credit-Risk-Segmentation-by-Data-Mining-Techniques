@@ -23,8 +23,8 @@ Implemented a complete data pipeline to construct and optimize machine learning 
 
 ## Advanced Data Mining Techniques: Credit Risk Segmentation (85% Accuracy)
 For further details on the Python project file, explore the impact of sophisticated data mining methods on credit risk segmentation by accessing it on Kaggle.
-- https://www.kaggle.com/code/shakkutlu/pad-2-credit-risk-assessment-2-85?scriptVersionId=129977454
+- https://www.kaggle.com/code/shakkutlu/advanced-data-mining-credit-risk-segmentation-85?scriptVersionId=129977454
 
 ## Basic Data Mining Techniques: Credit Risk Segmentation (77% Accuracy)
 For further details on the Python project file, explore the impact of basic data mining methods on credit risk segmentation by accessing it on Kaggle.
-- https://www.kaggle.com/code/shakkutlu/pad-2-credit-risk-assessment-1-77?scriptVersionId=129977692
+- https://www.kaggle.com/code/shakkutlu/basic-data-mining-credit-risk-segmentation-77?scriptVersionId=129977692
